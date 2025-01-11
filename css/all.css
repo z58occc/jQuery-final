@@ -1,0 +1,27 @@
+ul {
+  display: none;
+}
+.active {
+  background: blue;
+  color: #fff;
+}
+.dropdown:hover {
+  border-bottom: solid rgb(0, 204, 204) 3px;
+}
+.swiper {
+  width: 100%;
+}
+.card {
+  height: 500px;
+}
+.card-img-top {
+  height: 100px;
+}
+a{
+  text-decoration: none;
+}
+.top-btn{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
